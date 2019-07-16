@@ -48,4 +48,4 @@ def check_existing(valid_links):
             print('Not found')
     return "Checking is Done !"
 
-print(check_existing(check_validation(find_links(get_html_files('/home/oa/Documents')))))
+#print(check_existing(check_validation(find_links(get_html_files('/home/oa/Documents')))))
